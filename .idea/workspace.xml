@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="747bcf79-e8ed-48b4-87c2-dbb84574867c" name="Changes" comment="pin security added &amp; overflow issue resolved">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="747bcf79-e8ed-48b4-87c2-dbb84574867c" name="Changes" comment="pin security added &amp; overflow issue resolved base href changed.">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -72,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1789318278060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pin security added &amp; overflow issue resolved base href changed.">
+      <option name="closed" value="true" />
+      <created>1789318506742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789318506742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pin security added &amp; overflow issue resolved" />
-    <option name="LAST_COMMIT_MESSAGE" value="pin security added &amp; overflow issue resolved" />
+    <MESSAGE value="pin security added &amp; overflow issue resolved base href changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="pin security added &amp; overflow issue resolved base href changed." />
   </component>
 </project>
