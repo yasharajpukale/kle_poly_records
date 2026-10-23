@@ -26,6 +26,7 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
   <meta name="description" content="KLE Polytechnic student records for lecturers.">
 
   <!-- iOS meta tags & icons -->
@@ -40,7 +41,16 @@
   <title>KLE Poly MLP Records</title>
   <link rel="manifest" href="manifest.json">
   <style>
-    html, body { height: 100%; margin: 0; background: #003366; }
+    html, body {
+      width: 100%;
+      height: 100%;
+      height: 100dvh;
+      margin: 0;
+      overflow: hidden;
+      overscroll-behavior: none;
+      background: #003366;
+    }
+    flt-glass-pane { height: 100%; }
   </style>
 </head>
 <body>
